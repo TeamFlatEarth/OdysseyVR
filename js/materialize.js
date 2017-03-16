@@ -3707,8 +3707,8 @@ if (jQuery) {
       var defaults = {
         indicators: true,
         height: 400,
-        transition: 500,
-        interval: 6000
+        transition: 1000,
+        interval: 12000
       };
       options = $.extend(defaults, options);
 
