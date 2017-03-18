@@ -1,12 +1,7 @@
 document.addEventListener("DOMContentLoaded", function(event) { 
 
-
 var items = document.querySelectorAll(".whoosh");
  
-// code for the isElementInViewport function
- 
-
-
 window.addEventListener("scroll", callbackFunc);
 
 function callbackFunc() {
