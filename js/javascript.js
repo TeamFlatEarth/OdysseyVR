@@ -15,9 +15,4 @@ function callbackFunc() {
   };
 }
 
-
-
-
-
-
 });
