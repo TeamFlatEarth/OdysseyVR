@@ -54,8 +54,6 @@ $(document).ready(function(){
 
 
 
-
-
 $(document).ready(function(){
       $('.carousel').carousel();
     });
@@ -73,3 +71,6 @@ $('.carousel').carousel('set', 4);
 $('.carousel.carousel-slider').carousel({fullWidth: true});
 
 })(jQuery); // end of jQuery name space
+
+
+
