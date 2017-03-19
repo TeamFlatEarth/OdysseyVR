@@ -2200,7 +2200,7 @@ if (jQuery) {
   newToast.style.opacity = 0;
 
   // Animate toast in
-  Vel(newToast, {translateY: '-35px',  opacity: 1 }, {duration: 300,
+  Vel(newToast, {translateY: '300px',  opacity: 1 }, {duration: 1200,
     easing: 'easeOutCubic',
     queue: false});
 
